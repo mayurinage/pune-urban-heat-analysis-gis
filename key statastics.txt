@@ -1,0 +1,25 @@
+PUNE URBAN HEAT ANALYSIS — KEY STATISTICS
+
+STUDY AREA
+PMC area: 25,192.02 hectares
+
+LAND SURFACE TEMPERATURE (LST)
+Minimum: 29.76°C
+Mean: 45.04°C
+Maximum: 55.94°C
+95th percentile: 50.44°C
+
+VEGETATION (NDVI)
+Minimum: -0.0366
+Mean: 0.1533
+Maximum: 0.4610
+25th percentile: 0.1065
+
+HEAT PRIORITY SCREENING
+High heat threshold: LST ≥ 95th percentile
+Low vegetation threshold: NDVI ≤ 25th percentile
+Priority area: 639.11 hectares
+Share of PMC area: 2.54%
+
+INTERPRETATION
+Areas simultaneously meeting the high-heat and low-vegetation thresholds were identified as heat-priority screening zones for further investigation.
